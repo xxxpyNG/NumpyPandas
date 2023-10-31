@@ -1,3 +1,3 @@
-# 在Jupyter 用的numpy等
+# 在python 用的numpy,pandas等
 
 数据是从天气网上唐山市2011年-2022年12 月的天气数据，以及空气质量
